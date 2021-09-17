@@ -1,3 +1,10 @@
+# Code 301 Horned Beasts
+
+This is a simple app made for code 301 week 1, it should display horned animals and respond to user inputs.
+
+Made with react, bootstrap, and lots of effort.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,63 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#### Feature tracking
+
+Number and name of feature: Feature #1: Display images
+
+Estimate of time needed to complete: 40 min
+
+Start time: 1425
+
+Finish time: 1435
+
+Actual time needed to complete: 10 min
+
+<!--  -->
+
+Number and name of feature: Feature #2: Allow users to vote for their favorite beast
+
+Estimate of time needed to complete: 40 min
+
+Start time: 1440
+
+Finish time: 1510
+
+Actual time needed to complete: 30 min
+
+<!--  -->
+
+Number and name of feature: Feature 3: Bootstrap
+
+Estimate of time needed to complete: 1 Hour
+
+Start time: 1530
+
+Finish time: 1700
+
+Actual time needed to complete: 1.5 hours
+
+<!-- Lab 3 -->
+
+Number and name of feature: Feature #1: Display a Modal
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 1700 / 0740 / 1315
+
+Finish time: 2000 / 0855 / 1715
+
+Actual time needed to complete: 7 hours
+
+<!-- Lab 4 -->
+
+Number and name of feature: Feature 1. Filter by Numbers of Horns
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 1730
+
+Finish time: 2015
+
+Actual time needed to complete: 2 hours 45 minutes
